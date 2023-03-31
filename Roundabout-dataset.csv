@@ -1,0 +1,690 @@
+﻿Roundabout_ID;Maneuver_ID;Date;Verbalization;Exit;Event;DistNaNY;SpeedNaNV;Speed-L;Section;Dist_PVL;Dist_PVN;Dist_YL;Dist_YN;Dist_Yat;Lz;Cz;Rz;LL;RL
+M40;1;2021-05-06;mantengo la velocidad;4;T-HOLD;270;63.08;70;Approach;1;0;0;0;0;0;0;0;0;0
+M40;1;2021-05-06;cambio a tercera ;4;GD;260;60.23;70;Approach;1;0;0;0;0;0;0;0;0;1
+M40;1;2021-05-06;levanto el pie del acelerador;4;T-OFF;250;59.53;70;Approach;0;1;0;0;0;0;0;0;0;0
+M40;1;2021-05-06;cambio a segunda;4;GD;79;40.87;40;Approach;0;1;1;0;0;0;0;0;0;0
+M40;1;2021-05-06;intermitente a la izquierda ;4;LB-ON;33;25.01;40;Approach;1;0;0;1;0;0;0;0;0;0
+M40;1;2021-05-06;mira la izquierda en la rotonda;4;L-FREE;16;30.73;40;Approach;1;0;0;0;1;0;0;0;0;0
+M40;1;2021-05-06;entro en la rotonda ;4;RND-IN;8;27.77;40;Inside;1;0;0;0;1;0;0;0;0;0
+M40;1;2021-05-06;carril izquierdo de la rotonda ;4;CHG-L;NaN;27.18;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;1;2021-05-06;giro a la izquierda en la rotonda ;4;TRN-L;NaN;29.45;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;1;2021-05-06;mantengo el giro ;4;TRN-L;NaN;27.14;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;1;2021-05-06;mantengo el giro ;4;TRN-L;NaN;23.45;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;1;2021-05-06;mantengo el giro ;4;TRN-L;NaN;23.45;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;1;2021-05-06;mantengo el giro ;4;TRN-L;NaN;24.71;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;1;2021-05-06;intermitente a la derecha ;4;RB-ON;NaN;26.3;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;1;2021-05-06;retrovisor central ;4;BK-FREE;NaN;26.61;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;1;2021-05-06;miro la derecha ;4;RV-FREE;NaN;26.66;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;1;2021-05-06;gira a la derecha ;4;TRN-R;NaN;28.34;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;1;2021-05-06;giro a la derecha ;4;TRN-R;NaN;28.34;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;1;2021-05-06;salgo por la rotonda ;4;RND-OUT;NaN;31.77;40;Exit;1;0;0;0;0;0;0;0;0;0
+M40;1;2021-05-06;giro a la derecha ;4;TRN-R;NaN;34.1;40;Exit;1;0;0;0;0;0;0;0;0;0
+M40;1;2021-05-06;quito el intermitente ;4;RB-OFF;NaN;40.25;40;Exit;1;0;0;0;0;0;0;0;0;0
+M40;1;2021-05-06;cambiar tercera ;4;GU;NaN;47.32;40;Exit;1;0;0;0;0;0;0;0;0;0
+M40;1;2021-05-06;giro a la derecha;4;TRN-R;NaN;50.42;40;Exit;1;0;0;0;0;0;0;0;0;0
+M40;2;2021-05-11;mantengo el acelerador ;4;T-HOLD;220;66.1;70;Approach;1;0;0;0;0;0;0;0;0;0
+M40;2;2021-05-11;freno ;4;B-ON;210;58.09;70;Approach;0;1;0;0;0;0;0;0;0;0
+M40;2;2021-05-11;quito el pie del freno ;4;B-OFF;190;54.81;70;Approach;1;0;0;0;0;0;0;0;0;0
+M40;2;2021-05-11;acelero ligeramente ;4;T-HOLD;150;46.48;70;Approach;1;0;1;0;0;0;0;0;0;0
+M40;2;2021-05-11;quito el pie del acelerador ;4;T-OFF;99;44.71;60;Approach;1;0;1;0;0;0;0;0;0;0
+M40;2;2021-05-11;freno ;4;B-ON;73;46.01;40;Approach;0;1;0;1;0;0;0;0;0;0
+M40;2;2021-05-11;cambio segunda ;4;GD;36;40.71;40;Approach;1;0;0;1;0;0;0;0;0;0
+M40;2;2021-05-11;miro la derecha ;4;RV-FREE;16;31.06;40;Approach;1;0;0;1;0;0;0;0;0;1
+M40;2;2021-05-11;intermitente a la izquierda ;4;LB-ON;8;25.9;40;Approach;1;0;0;0;1;0;0;0;0;0
+M40;2;2021-05-11;mira la izquierda ;4;L-FREE;8;25.9;40;Approach;1;0;0;0;1;0;0;0;0;0
+M40;2;2021-05-11;entro en la rotonda ;4;RND-IN;2;25.83;40;Inside;1;0;0;0;0;0;0;1;0;0
+M40;2;2021-05-11;cambio del carril a la izquierda ;4;CHG-L;NaN;28.2;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;2;2021-05-11;giro a la izquierda ;4;TRN-L;NaN;27.07;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;2;2021-05-11;continuo girando a la izquierda ;4;TRN-L;NaN;28.32;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;2;2021-05-11;continua girando al izquierda ;4;TRN-L;NaN;28.34;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;2;2021-05-11;intermitente a la derecha ;4;RB-ON;NaN;28.22;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;2;2021-05-11;mira la derecha ;4;LR-FREE;NaN;26.31;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;2;2021-05-11;retrovisor central ;4;BK-FREE;NaN;26.31;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;2;2021-05-11;retrovisor central ;4;BK-FREE;NaN;27.15;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;2;2021-05-11;cambio de carril a la derecha ;4;CHG-R;NaN;27.95;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;2;2021-05-11;dejo el coche ir a la derecha ;4;TRN-R;NaN;27.26;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;2;2021-05-11;giro a la derecha;4;TRN-R;NaN;40.07;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;2;2021-05-11;salgo de la rotonda ;4;RND-OUT;NaN;43.78;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;2;2021-05-11;cambio tercera ;4;GU;NaN;48.18;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;2;2021-05-11;quito el intermitente;4;RB-OFF;NaN;48.18;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;3;2021-05-12;levanto el pie del acelerador ;4;T-OFF;260;61.75;70;Approach;1;0;0;0;0;0;0;0;0;0
+M40;3;2021-05-12;cambio tercera ;4;GD;240;52.85;70;Approach;1;0;0;0;0;0;0;0;0;0
+M40;3;2021-05-12;mantengo el acelerador ;4;T-HOLD;170;52.85;70;Approach;0;1;0;0;0;0;0;0;0;0
+M40;3;2021-05-12;cambio a segunda ;4;GD;110;37.76;60;Approach;0;1;0;0;0;0;0;0;0;0
+M40;3;2021-05-12;levanto el pie del acelerador ;4;T-OFF;82;37.65;40;Approach;0;1;1;0;0;0;0;0;0;0
+M40;3;2021-05-12;freno ;4;B-ON;74;30.92;40;Approach;0;1;1;0;0;0;0;0;0;0
+M40;3;2021-05-12;punto muerto ;4;GD;49;10.61;40;Approach;0;1;1;0;0;0;0;0;0;0
+M40;3;2021-05-12;meto primera ;4;GU;46;7.12;40;Approach;0;1;1;0;0;0;0;0;0;0
+M40;3;2021-05-12;acelero ;4;T-ON;38;7.21;40;Approach;0;1;1;0;0;0;0;0;0;0
+M40;3;2021-05-12;voy a entrar en la rotonda ;4;RND-NR;29;13.07;40;Approach;0;1;0;1;0;0;0;0;0;0
+M40;3;2021-05-12;cambio a segunda ;4;GU;18;19.64;40;Approach;0;1;0;1;0;0;0;0;0;0
+M40;3;2021-05-12;intermitente a la izquierda ;4;LB-ON;18;21.76;40;Approach;0;1;0;1;0;0;0;1;0;0
+M40;3;2021-05-12;miro a izquierda ;4;L-FREE;5;21.76;40;Approach;0;1;0;0;1;0;0;1;0;0
+M40;3;2021-05-12;entro en la rotonda ;4;RND-IN;NaN;24.35;40;Inside;0;1;0;0;1;0;0;1;0;0
+M40;3;2021-05-12;giro a la izquierda ;4;TRN-L;NaN;24.35;40;Inside;0;1;0;0;0;0;0;1;0;0
+M40;3;2021-05-12;cambio de carril en la rotonda ;4;CHG-L;NaN;27.14;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;3;2021-05-12;giro a la izquierda para hacer la rotonda ;4;TRN-L;NaN;26.81;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;3;2021-05-12;continuo girando ;4;TRN-L;NaN;26.44;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;3;2021-05-12;intermitente la derecha ;4;RB-ON;NaN;23.67;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;3;2021-05-12;retrovisor central ;4;BK-FREE;NaN;24.31;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;3;2021-05-12;mira la derecha ;4;RV-FREE;NaN;24.31;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;3;2021-05-12;giro a la derecha ;4;TRN-R;NaN;25.85;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;3;2021-05-12;cambio de carril en la rotonda ;4;CHG-R;NaN;26.64;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;3;2021-05-12;giro a la derecha ;4;TRN-R;NaN;31.73;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;3;2021-05-12;salgo de la rotonda ;4;RND-OUT;NaN;35.08;40;Exit;1;0;0;0;0;0;0;0;0;0
+M40;3;2021-05-12;meto tercera ;4;GU;NaN;42.29;40;Exit;1;0;0;0;0;0;0;0;0;0
+M40;3;2021-05-12;y quito el intermitente;4;RB-OFF;NaN;42.29;40;Exit;1;0;0;0;0;0;0;0;0;0
+M40;4;2021-05-13;enderezo ;4;STR;260;72.65;70;Approach;1;0;0;0;0;0;0;0;0;0
+M40;4;2021-05-13;mantengo el acelerador ;4;T-HOLD;250;65.63;70;Approach;1;0;0;0;0;0;0;0;0;0
+M40;4;2021-05-13;levanto el pie del acelerador ;4;T-OFF;230;64.63;70;Approach;0;1;0;0;0;0;0;0;0;0
+M40;4;2021-05-13;nos aproximamos a una rotonda ;4;RND-MD;130;56.58;60;Approach;0;1;1;0;0;0;0;0;0;0
+M40;4;2021-05-13;comienzo a frenar ;4;B-ON;100;53.21;60;Approach;0;1;1;0;0;0;0;0;0;0
+M40;4;2021-05-13;cambio a segunda ;4;GD;34;43.28;40;Approach;0;1;0;1;0;0;0;0;0;0
+M40;4;2021-05-13;retrovisor central ;4;BK-FREE;34;43.28;40;Approach;0;1;0;0;1;0;0;0;0;0
+M40;4;2021-05-13;miro a la izquierda ;4;LV-FREE;24;38.1;40;Approach;0;1;0;0;1;0;0;0;0;0
+M40;4;2021-05-13;intermitente a la izquierda ;4;LB-ON;15;32.66;40;Approach;0;1;0;0;1;0;0;0;0;0
+M40;4;2021-05-13;no viene nadie ;4;L-FREE;7;28.15;40;Approach;0;1;0;0;1;0;0;0;0;0
+M40;4;2021-05-13;entro en la rotonda ;4;RND-IN;NaN;26.33;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;4;2021-05-13;cambio al carril izquierdo de la rotonda ;4;CHG-L;NaN;26.35;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;4;2021-05-13;giro a la izquierda ;4;TRN-L;NaN;27.56;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;4;2021-05-13;mantengo el giro a la izquierda en la rotonda ;4;TRN-L;NaN;27.62;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;4;2021-05-13;intermitente la derecha ;4;RB-ON;NaN;23.1;40;Inside;0;1;0;0;0;0;0;0;0;1
+M40;4;2021-05-13;miro la derecha ;4;RV-FREE;NaN;28.35;40;Inside;0;1;0;0;0;0;0;0;0;1
+M40;4;2021-05-13;retrovisor derecho ;4;BK-FREE;NaN;30.43;40;Inside;0;1;0;0;0;0;0;0;0;1
+M40;4;2021-05-13;giro a la derecha ;4;TRN-R;NaN;31.29;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;4;2021-05-13;cambio de carril derecho ;4;CHG-R;NaN;35.01;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;4;2021-05-13;salgo de la rotonda ;4;RND-OUT;NaN;38.08;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;4;2021-05-13;giro a la derecha ;4;TRN-R;NaN;43.95;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;4;2021-05-13;cambio a tercera ;4;GU;NaN;49.06;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;4;2021-05-13;quito el intermitente;4;RB-OFF;NaN;49.06;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;5;2021-05-25;freno ;4;B-ON;46;NaN;-;Approach;1;0;1;0;0;0;0;0;0;0
+M40;5;2021-05-25;llego a una rotonda ;4;RND.NR;36;66.79;70;Approach;1;0;1;0;0;0;0;0;0;0
+M40;5;2021-05-25;cambio a segunda ;4;GD;14;34.07;40;Approach;1;0;0;1;0;0;0;0;0;0
+M40;5;2021-05-25;miro a la izquierda;4;LV-FREE;5;29.94;40;Approach;1;0;0;1;0;0;0;0;0;0
+M40;5;2021-05-25;no viene nadie ;4;L-FREE;2;27.51;40;Approach;1;0;0;0;1;0;0;0;0;0
+M40;5;2021-05-25;intermitente a la izquierda ;4;LB-ON;NaN;27.53;40;Approach;1;0;0;0;1;0;0;0;0;0
+M40;5;2021-05-25;entro en la rotonda ;4;RND-IN;NaN;28.42;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;5;2021-05-25;giro a la izquierda ;4;TRN-L;NaN;28.52;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;5;2021-05-25;cambio de carril a la izquierda ;4;CHG-L;NaN;28.52;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;5;2021-05-25;gire a la izquierda para hacer la rotonda ;4;TRN-L;NaN;24.74;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;5;2021-05-25;mantengo el giro a la izquierda ;4;TRN-L;NaN;22.64;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;5;2021-05-25;mantengo el giro a la izquierda  ;4;TRN-L;NaN;24.97;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;5;2021-05-25;intermitente a la derecha ;4;RB-ON;NaN;23.59;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;5;2021-05-25;miro a la derecha ;4;RV-FREE;NaN;23.59;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;5;2021-05-25;no viene nadie ;4;RV-FREE;NaN;23.95;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;5;2021-05-25;giro a la derecha para cambiar de carril en la rotonda ;4;CHG-R;NaN;34.2;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;5;2021-05-25;giro a la derecha para salir de la rotonda ;4;RND-OUT;NaN;42.05;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;5;2021-05-25;acelero;4;T-ON;NaN;46.39;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;5;2021-05-25;quito el intermitente ;4;RB-OFF;NaN;49.99;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;5;2021-05-25;cambio a tercera;4;GU;NaN;50.3;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;6;2021-05-26; levanto el pie del acelerador;4;T-OFF;220;65.02;70;Approach;0;0;0;0;0;0;0;0;0;0
+M40;6;2021-05-26;cambio tercera ;4;GD;140;53.76;60;Approach;0;0;0;0;0;0;0;0;0;0
+M40;6;2021-05-26;me preparo para la rotonda ;4;RND-MD;110;49.24;60;Approach;0;0;1;0;0;0;0;0;0;0
+M40;6;2021-05-26;freno ;4;B-ON;100;48.66;60;Approach;1;0;1;0;0;0;0;0;0;0
+M40;6;2021-05-26;cambio segunda ;4;GD;37;38.51;40;Approach;1;0;1;0;0;0;0;0;0;0
+M40;6;2021-05-26;intermitente a la izquierda ;4;LB-ON;28;33.3;40;Approach;0;1;0;1;0;0;0;0;0;0
+M40;6;2021-05-26;mira izquierda ;4;LV-FREE;20;28.19;40;Approach;0;1;0;1;0;0;0;0;0;0
+M40;6;2021-05-26;mira la izquierda ;4;L-FREE;8;19.88;40;Approach;0;1;0;1;0;0;0;0;0;0
+M40;6;2021-05-26;no viene nadie ;4;L-FREE;NaN;22.4;40;Approach;0;1;0;0;1;0;0;1;0;0
+M40;6;2021-05-26;entro en la rotonda ;4;RND-IN;NaN;24.34;40;Inside;0;1;0;0;1;0;0;1;0;0
+M40;6;2021-05-26;cambio de carril a la izquierda en la rotonda ;4;CHG-L;NaN;25.25;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;6;2021-05-26;giro a la izquierda en la rotonda ;4;TRN-L;NaN;26.02;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;6;2021-05-26;mantengo el giro a la izquierda en la rotonda ;4;TRN-L;NaN;24.06;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;6;2021-05-26;intermitente a la derecha en la rotonda ;4;RB-ON;NaN;21.96;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;6;2021-05-26;retrovisor central ;4;BK-FREE;NaN;18.91;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;6;2021-05-26;retrovisor derecho ;4;RV-FREE;NaN;23.99;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;6;2021-05-26;giro a la derecha para cambiar de carril ;4;CHG-R;NaN;30.19;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;6;2021-05-26;giro a la derecha para salir de la rotonda ;4;RND-OUT;NaN;35.51;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;6;2021-05-26;quito el intermitente ;4;RB-OFF;NaN;44.22;40;Exit;1;0;0;0;0;0;0;0;0;0
+M40;6;2021-05-26;acelero ;4;T-ON;NaN;46.48;40;Exit;1;0;0;0;0;0;0;0;0;0
+M40;6;2021-05-26;cambio a tercera;4;GU;NaN;51.67;40;Exit;1;0;0;0;0;0;0;0;0;0
+M40;7;2021-05-27;levanto el pie del acelerador ;4;T-OFF;220;71.56;70;Approach;1;0;0;0;0;0;0;0;0;0
+M40;7;2021-05-27;me aproximo a una rotonda ;4;RND-MD;130;62.46;60;Approach;1;0;0;0;0;0;0;0;0;0
+M40;7;2021-05-27;cambio a tercera ;4;GD;67;55.18;40;Approach;1;0;0;0;0;0;0;0;0;0
+M40;7;2021-05-27;freno ;4;B-ON;51;50.99;40;Approach;1;0;0;0;0;0;0;0;0;0
+M40;7;2021-05-27;cambia cuarta ;4;GD;16;33.03;40;Approach;1;0;1;0;0;0;0;0;0;0
+M40;7;2021-05-27;miro a la izquierda en la rotonda ;4;LV-FREE;8;27.04;40;Approach;1;0;0;1;0;0;0;0;0;0
+M40;7;2021-05-27;vía libre ;4;L-FREE;NaN;27.34;40;Approach;1;0;0;0;1;0;0;0;0;0
+M40;7;2021-05-27;entro en la rotonda ;4;RND-IN;NaN;28.16;40;Inside;1;0;0;0;1;0;0;0;0;0
+M40;7;2021-05-27;cambio de carril izquierdo ;4;CHG-L;NaN;27.84;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;7;2021-05-27;intermitente a la izquierda ;4;LB-ON;NaN;26.78;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;7;2021-05-27;giro a la izquierda en la rotonda ;4;TRN-L;NaN;26.78;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;7;2021-05-27;retrovisor central ;4;BK-FREE;NaN;24.73;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;7;2021-05-27;intermitente a la derecha ;4;RB-ON;NaN;24.05;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;7;2021-05-27;miro a la derecha ;4;RV-FREE;NaN;25.15;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;7;2021-05-27;giro a la derecha para cambiar de carril en la rotonda ;4;CHG-R;NaN;28.29;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;7;2021-05-27;giro a la derecha para salir de la rotonda ;4;TRN-R;NaN;43.67;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;7;2021-05-27;salgo de la rotonda ;4;RND-OUT;NaN;47.75;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;7;2021-05-27;quito el intermitente ;4;RB-OFF;NaN;48.99;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;7;2021-05-27;acelero ;4;T-ON;NaN;50.28;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;7;2021-05-27;cambio a tercera;4;GU;NaN;52.94;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;8;2021-06-02;me preparo para rotonda ;4;RND-MD;110;47.4;60;Approach;0;1;0;0;0;0;0;0;0;0
+M40;8;2021-06-02;levanto el pie del acelerador ;4;T-OFF;87;46.6;40;Approach;0;1;0;0;0;0;0;0;0;0
+M40;8;2021-06-02;freno ;4;B-ON;62;44.01;40;Approach;0;1;0;0;0;0;0;0;0;0
+M40;8;2021-06-02;cambio a segunda ;4;GD;50;41.53;40;Approach;0;1;1;0;0;0;0;0;0;0
+M40;8;2021-06-02;mirar izquierda ;4;LV-FREE;39;36.83;40;Approach;0;1;1;0;0;0;0;0;0;0
+M40;8;2021-06-02;continúo frenando ;4;B-ON;29;30.68;40;Approach;0;1;0;1;0;0;0;0;0;0
+M40;8;2021-06-02;vigila distancia con el de delante ;4;CAR-NR;22;25.45;40;Approach;0;1;0;1;0;0;0;0;0;0
+M40;8;2021-06-02;acelero ;4;T-ON;10;19.07;40;Approach;0;1;0;1;0;0;0;0;0;0
+M40;8;2021-06-02;mira la izquierda ;4;LV-FREE;10;19.07;40;Approach;0;1;0;0;1;0;0;0;0;0
+M40;8;2021-06-02;vía libre ;4;L-FREE;6;17.89;40;Approach;0;1;0;0;1;0;0;0;0;0
+M40;8;2021-06-02;entro en la rotonda ;4;RND-IN;NaN;19.68;40;Inside;0;1;0;0;1;0;0;1;0;0
+M40;8;2021-06-02;intermitente a la izquierda ;4;LB-ON;NaN;19.68;40;Inside;0;1;0;0;0;0;0;1;0;0
+M40;8;2021-06-02;cambio al carril de la izquierda en la rotonda ;4;CHG-L;NaN;20;40;Inside;0;1;0;0;0;0;0;1;0;0
+M40;8;2021-06-02;suelto el pie del acelerador ;4;T-OFF;NaN;17.3;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;8;2021-06-02;cambio a primera ;4;GD;NaN;12.64;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;8;2021-06-02;giro a la izquierda en la rotonda ;4;TRN-L;NaN;12.64;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;8;2021-06-02;mantengo el giro a la izquierda en la rotonda ;4;TRN-L;NaN;15.12;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;8;2021-06-02;miro a la derecha ;4;RV-FREE;NaN;18.77;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;8;2021-06-02;intermitente a la derecha ;4;RB-ON;NaN;25.25;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;8;2021-06-02;retrovisor central ;4;BK-FREE;NaN;25.37;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;8;2021-06-02;giro a la derecha ;4;TRN-R;NaN;22.98;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;8;2021-06-02;retrovisor derecho ;4;RV-FREE;NaN;24.4;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;8;2021-06-02;cambio de carril a la derecha ;4;CHG-R;NaN;27;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;8;2021-06-02;giro a la derecha para salir de la rotonda ;4;RND-OUT;NaN;30.26;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;8;2021-06-02;quito el intermitente ;4;RB-OFF;NaN;40.15;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;8;2021-06-02;enderezo;4;STR;NaN;44.97;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;8;2021-06-02;cambia tercera ;4;GU;NaN;46.13;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;9;2021-06-08;me preparo para rotonda;4;RND-MD;250;75.3;60;Approach;0;0;0;0;0;0;0;0;0;0
+M40;9;2021-06-08;freno;4;B-ON;117;61.5;60;Approach;0;0;0;0;0;0;0;0;0;0
+M40;9;2021-06-08;cambio a tercera;4;GD;87;55.3;60;Approach;0;0;0;0;0;0;0;0;0;0
+M40;9;2021-06-08;continúo frenando;4;B-ON;69;47.26;40;Approach;0;0;0;0;0;0;0;0;0;0
+M40;9;2021-06-08;miro a la izquierda;4;LV-FREE;42;40;40;Approach;1;0;1;0;0;0;0;0;0;0
+M40;9;2021-06-08;no viene nadie;4;L-FREE;38;37;40;Approach;1;0;1;0;0;0;0;0;0;0
+M40;9;2021-06-08;intermitente a la izquierda;4;LB-ON;15;35;40;Approach;1;0;0;1;0;0;0;0;0;0
+M40;9;2021-06-08;cambio a segunda;4;GD;7;32;40;Approach;1;0;0;0;1;0;0;0;0;0
+M40;9;2021-06-08;entro en la rotonda;4;RND-IN;1;28.56;40;Inside;1;0;0;0;1;0;0;0;0;0
+M40;9;2021-06-08;giro a la izquierda para cambiar de carril;4;CHG-L;NaN;27.54;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;9;2021-06-08;giro a la izquierda en la rotonda;4;TRN-L;NaN;26.38;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;9;2021-06-08;giro a la izquierda en la rotonda;4;TRN-L;NaN;26.38;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;9;2021-06-08;intermitente a la derecha;4;RB-ON;NaN;24.53;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;9;2021-06-08;retrovisor central;4;BK-FREE;NaN;25.45;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;9;2021-06-08;giro a la derecha para cambiar de carril en la rotonda;4;CHG-R;NaN;28.29;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;9;2021-06-08;giro a la derecha;4;TRN-R;NaN;30.16;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;9;2021-06-08;salgo de la rotonda;4;RND-OUT;NaN;41.28;40;Exit;1;0;0;0;0;0;0;0;0;0
+M40;9;2021-06-08;cambio a tercera;4;GU;NaN;42.24;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;9;2021-06-08;quito el intermitente;4;RB-OUT;NaN;42.88;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;9;2021-06-08;enderezo;4;STR;NaN;44.88;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;10;2021-06-09;levanto el pie del acelerador;4;T-OFF;190;49.16;70;Approach;1;0;0;0;0;0;0;0;0;0
+M40;10;2021-06-09;freno ;4;B-ON;180;46.26;70;Approach;1;0;0;0;0;0;0;0;0;0
+M40;10;2021-06-09;me preparo para rotonda ;4;RND-MD;180;46.26;70;Approach;1;0;0;0;0;0;0;0;0;0
+M40;10;2021-06-09;cambio a segunda ;4;GD;130;42.34;60;Approach;1;0;0;0;0;0;0;0;0;0
+M40;10;2021-06-09;acelero ;4;T-ON;100;45.44;60;Approach;1;0;0;0;0;0;0;0;0;0
+M40;10;2021-06-09;levanto el pie del acelerador ;4;T-OFF;79;44.86;60;Approach;1;0;1;0;0;0;0;0;0;0
+M40;10;2021-06-09;freno ;4;B-ON;55;39.42;40;Approach;1;0;1;0;0;0;0;0;0;0
+M40;10;2021-06-09;miro a la izquierda en la rotonda ;4;LV-FREE;34;33.29;40;Approach;1;0;0;1;0;0;0;0;0;0
+M40;10;2021-06-09;continúo frenando ;4;B-ON;17;27.09;40;Approach;0;1;0;1;0;0;0;0;0;0
+M40;10;2021-06-09;no viene nadie ;4;L-FREE;4;20.37;40;Approach;0;1;0;1;0;0;0;0;0;0
+M40;10;2021-06-09;acelero ;4;T-ON;2;23.9;40;Approach;1;0;0;0;1;0;0;0;0;0
+M40;10;2021-06-09;entro en la rotonda ;4;RND-IN;NaN;26.16;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;10;2021-06-09;intermitente a la izquierda ;4;LB-ON;NaN;28.1;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;10;2021-06-09;cambio de carril a la izquierda en la rotonda ;4;CHG-L;NaN;27.91;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;10;2021-06-09;giro a la izquierda en la rotonda ;4;TRN-L;NaN;21.49;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;10;2021-06-09;miro a la derecha ;4;RV-FREE;NaN;22.27;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;10;2021-06-09;no viene nadie ;4;RV-FREE;NaN;25;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;10;2021-06-09;intermitente la derecha ;4;RB-ON;NaN;25.07;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;10;2021-06-09;retrovisor central ;4;BK-FREE;NaN;28.01;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;10;2021-06-09;giro a la derecha ;4;TRN-R;NaN;33.5;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;10;2021-06-09;cambio de carril en la rotonda ;4;CHG-R;NaN;33.5;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;10;2021-06-09;gire a la derecha ;4;TRN-R;NaN;39.97;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;10;2021-06-09;salgo de la rotonda ;4;RND-OUT;NaN;42.38;40;Exit;1;0;0;0;0;0;0;0;0;0
+M40;10;2021-06-09;enderezo ;4;STR;NaN;43.34;40;Exit;1;0;0;0;0;0;0;0;0;0
+M40;10;2021-06-09;quito el intermitente;4;RB-OFF;NaN;43.88;40;Exit;0;1;0;0;0;0;0;0;0;0
+M40;10;2021-06-09;atención coche dando marcha atrás;4;INCIDENT;NaN;43.88;40;Exit;0;1;0;0;0;0;0;0;0;0
+M40;11;2021-06-10;mantengo el acelerador ;4;T-HOLD;180;65.81;70;Approach;0;0;0;0;0;0;0;0;0;0
+M40;11;2021-06-10;me preparo para rotonda ;4;RND-MD;150;63.23;60;Approach;0;0;0;0;0;0;0;0;0;0
+M40;11;2021-06-10;cambio a segunda ;4;GD;63;57.04;40;Approach;0;0;0;0;0;0;0;0;0;0
+M40;11;2021-06-10;freno ;4;B-ON;48;53.41;40;Approach;0;0;1;0;0;0;0;0;0;0
+M40;11;2021-06-10;miro a la izquierda ;4;LV-FREE;48;53.41;40;Approach;0;0;1;0;0;0;0;0;0;0
+M40;11;2021-06-10;freno ;4;B-ON;21;41.6;40;Approach;0;0;0;1;0;0;0;0;0;0
+M40;11;2021-06-10;miro a la izquierda ;4;LV-FREE;11;35.87;40;Approach;0;0;0;1;0;0;0;0;0;0
+M40;11;2021-06-10;no viene nadie ;4;L-FREE;NaN;24.77;40;Approach;0;0;0;0;1;0;0;0;0;0
+M40;11;2021-06-10;acelero ;4;T-ON;NaN;25.14;40;Approach;0;0;0;0;1;0;0;0;0;0
+M40;11;2021-06-10;entro en la rotonda ;4;RND-IN;NaN;27.2;40;Inside;0;0;0;0;1;0;0;1;0;0
+M40;11;2021-06-10;intermitente a la izquierda ;4;LB-ON;NaN;26.81;40;Inside;0;1;0;0;0;0;0;1;0;0
+M40;11;2021-06-10;cambio de carril a la izquierda en la rotonda ;4;CHG-L;NaN;26.87;40;Inside;0;1;0;0;0;0;0;1;0;0
+M40;11;2021-06-10;giro a la izquierda en la rotonda ;4;TRN-L;NaN;23.99;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;11;2021-06-10;intermitente a la derecha ;4;RB-ON;NaN;24.98;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;11;2021-06-10;miro a la derecha ;4;RV-FREE;NaN;26.55;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;11;2021-06-10;no viene nadie ;4;RV-FREE;NaN;24.85;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;11;2021-06-10;giro a la derecha para cambiar de carril en la rotonda ;4;CHG-R;NaN;27.15;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;11;2021-06-10;giro a la derecha para salir de la rotonda ;4;TRN-R;NaN;31.41;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;11;2021-06-10;salgo de la rotonda ;4;RND-OUT;NaN;44.48;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;11;2021-06-10;enderezo ;4;STR;NaN;48.8;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;11;2021-06-10;quito el intermitente ;4;RB-OFF;NaN;48.8;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;11;2021-06-10;acelero ;4;T-ON;NaN;49.8;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;11;2021-06-10;cambio tercera;4;GU;NaN;50.84;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;12;2021-06-15;me preparo para rotonda ;4;RND-MD;240;78.4;70;Approach;1;0;0;0;0;0;0;0;0;0
+M40;12;2021-06-15;bajo marcha tercera ;4;GD;220;73.02;70;Approach;1;0;0;0;0;0;0;0;0;0
+M40;12;2021-06-15;mantengo el acelerador ;4;T-HOLD;200;64.91;70;Approach;1;0;0;0;0;0;0;0;0;0
+M40;12;2021-06-15;quito el pie del acelerador ;4;T-OFF;170;58.29;70;Approach;1;0;0;0;0;0;0;0;0;0
+M40;12;2021-06-15;bajo marcha segunda ;4;GD;92;51.95;40;Approach;1;0;1;0;0;0;0;0;0;0
+M40;12;2021-06-15;mira la izquierda ;4;LV-FREE;77;51.46;40;Approach;1;0;1;0;0;0;0;0;0;0
+M40;12;2021-06-15;intermitente a la izquierda ;4;LB-ON;63;51.04;40;Approach;1;0;0;1;0;0;0;0;0;0
+M40;12;2021-06-15;mira la izquierda ;4;LV-FREE;35;44.96;40;Approach;1;0;0;1;0;0;0;0;0;0
+M40;12;2021-06-15;freno ;4;B-ON;24;42.15;40;Approach;0;0;0;0;1;0;0;0;0;0
+M40;12;2021-06-15;vía libre;4;L-FREE;13;35.14;40;Approach;0;0;0;0;1;0;0;0;0;0
+M40;12;2021-06-15;entro en la rotonda ;4;RND-IN;5;29.34;40;Inside;0;0;0;0;1;0;0;0;0;0
+M40;12;2021-06-15;gire a la izquierda para cambiar de carril en la rotonda ;4;CHG-L;NaN;22.84;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;12;2021-06-15;giro a la izquierda dentro de la rotonda ;4;TRN-L;NaN;26.5;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;12;2021-06-15;miro la derecha ;4;RV-FREE;NaN;24.86;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;12;2021-06-15;intermitente a la derecha ;4;RB-ON;NaN;22.06;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;12;2021-06-15;giro a la derecha para cambiar de carril en rotonda ;4;CHG-R;NaN;22.06;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;12;2021-06-15;giro a la derecha para salir de la rotonda ;4;TRN-R;NaN;29.93;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;12;2021-06-15;SALGO DE LA ROTONDA;4;RND-OUT;NaN;29.93;40;Exit;1;0;0;0;0;0;0;0;0;0
+M40;12;2021-06-15;quito el intermintente ;4;RB-OFF;NaN;39.59;40;Exit;1;0;0;0;0;0;0;0;0;0
+M40;12;2021-06-15;enderezo ;4;STR;NaN;40.51;40;Exit;1;0;0;0;0;0;0;0;0;0
+M40;12;2021-06-15;subo marcha tercera;4;GU;NaN;44.44;40;Exit;1;0;0;0;0;0;0;0;0;0
+M40;13;2021-06-22;me preparo para rotonda ;4;RND-MD;270;78.05;70;Approach;0;0;0;0;0;0;0;0;0;0
+M40;13;2021-06-22;bajo marcha tercera ;4;GD;150;68.31;60;Approach;0;0;0;0;0;0;0;0;0;0
+M40;13;2021-06-22;levanto el pie del acelerador ;4;T-OFF;110;61.47;60;Approach;0;0;0;0;0;0;0;0;0;0
+M40;13;2021-06-22;bajo marcha segunda ;4;GD;62;57.14;40;Approach;1;0;1;0;0;0;0;0;0;0
+M40;13;2021-06-22;freno ;4;B-ON;33;47.16;40;Approach;1;0;1;0;0;0;0;0;0;0
+M40;13;2021-06-22;miro a la izquierda ;4;LV-FREE;21;40.68;40;Approach;1;0;0;1;0;0;0;0;0;0
+M40;13;2021-06-22;freno ;4;B-ON;11;33.76;40;Approach;1;0;0;1;0;0;0;0;0;0
+M40;13;2021-06-22;intermitente a la izquierda ;4;LB-ON;3;27.39;40;Approach;1;0;0;0;1;0;0;0;0;0
+M40;13;2021-06-22;miro a la izquierda ;4;L-FREE;NaN;22.82;40;Approach;0;0;0;0;1;0;0;0;0;0
+M40;13;2021-06-22;entra en la rotonda ;4;RND-IN;NaN;24.48;40;Inside;0;0;0;0;1;0;0;0;0;1
+M40;13;2021-06-22;gire a la izquierda para cambiar el carril izquierdo en la rotonda ;4;CHG-L;NaN;26.05;40;Inside;0;1;0;0;0;0;0;0;0;1
+M40;13;2021-06-22;giro a la izquierda en la rotonda ;4;TRN-L;NaN;26.86;40;Inside;0;1;0;0;0;0;0;0;0;1
+M40;13;2021-06-22;retrovisor central ;4;BK-FREE;NaN;26.31;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;13;2021-06-22;retrovisor derecho ;4;RV-FREE;NaN;26.68;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;13;2021-06-22;intermitente a la derecha ;4;RB-ON;NaN;26.68;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;13;2021-06-22;giro a la derecha para cambiar de carril en la rotonda ;4;CHG-R;NaN;28.38;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;13;2021-06-22;giro a la derecha para salir de la rotonda ;4;TRN-R;NaN;32.32;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;13;2021-06-22;salgo de la rotonda;4;RND-OUT;NaN;40.32;40;Exit;1;0;0;0;0;0;0;0;0;0
+M40;13;2021-06-22;acelero ;4;T-ON;NaN;42.46;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;13;2021-06-22;subo marcha tercera ;4;GU;NaN;45.31;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;13;2021-06-22;enderezo ;4;STR;NaN;47.32;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;13;2021-06-22;quito intermitente;4;RB-OFF;NaN;49.21;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;14;2021-06-23;me preparo para rotonda ;4;RND-MD;180;82.5;70;Approach;0;0;0;0;0;0;0;0;0;0
+M40;14;2021-06-23;bajo marcha tercera ;4;GD;110;65.86;60;Approach;0;0;0;0;0;0;0;0;0;0
+M40;14;2021-06-23;mantengo el acelerador ;4;T-HOLD;95;64.48;40;Approach;0;0;1;0;0;0;0;0;0;0
+M40;14;2021-06-23;levanto el pie del acelerador ;4;T-OFF;77;62.99;40;Approach;0;0;1;0;0;0;0;0;0;0
+M40;14;2021-06-23;freno ;4;B-ON;42;55.3;40;Approach;0;0;1;0;0;0;0;0;0;0
+M40;14;2021-06-23;bajo marcha segunda ;4;GD;29;50.26;40;Approach;0;0;1;0;0;0;0;0;0;0
+M40;14;2021-06-23;freno ;4;B-ON;17;41.43;40;Approach;0;0;0;1;0;0;0;0;0;0
+M40;14;2021-06-23;mira la izquierda ;4;LV-FREE;7;34.47;40;Approach;0;0;0;1;0;0;0;0;0;0
+M40;14;2021-06-23;intermitente izquierda ;4;LB-ON;NaN;31.32;40;Approach;0;0;0;1;0;0;0;0;0;0
+M40;14;2021-06-23;vía libre;4;L-FREE;NaN;31.32;40;Approach;0;0;0;0;1;0;0;0;0;0
+M40;14;2021-06-23;entro en la rotonda ;4;RND-IN;NaN;30.57;40;Inside;0;0;0;0;1;0;0;0;0;0
+M40;14;2021-06-23;giro a la izquierda cambio al carril izquierdo en la rotonda ;4;CHG-L;NaN;30.66;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;14;2021-06-23;giro a la izquierda en la rotonda ;4;TRN-L;NaN;27.14;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;14;2021-06-23;retrovisor central ;4;BK-FREE;NaN;26.56;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;14;2021-06-23;vía libre;4;BK-FREE;NaN;22.76;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;14;2021-06-23;mira la derecha ;4;RV-FREE;NaN;28.26;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;14;2021-06-23;intermitente derecho ;4;BR-ON;NaN;28.59;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;14;2021-06-23;giro a la derecha para cambiar de carril en la rotonda ;4;CHG-R;NaN;29.99;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;14;2021-06-23;giro a la derecha para salir de la rotonda ;4;TRN-R;NaN;37.99;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;14;2021-06-23;salgo de la rotonda;4;RND-OUT;NaN;38.71;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;14;2021-06-23;acelero ;4;T-ON;NaN;40.8;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;14;2021-06-23;enderezo ;4;STR;NaN;44.25;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;14;2021-06-23;quito el intermitente ;4;RB-OFF;NaN;46.4;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;14;2021-06-23;subo marcha tercera ;4;GU;NaN;46.14;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;15;2021-07-06;me preparo para rotonda ;4;RND-MD;160;32.66;70;Approach;1;0;0;0;0;0;0;0;0;0
+M40;15;2021-07-06;levanto el pie del acelerador ;4;T-OFF;130;34.35;60;Approach;0;1;0;0;0;0;0;0;0;0
+M40;15;2021-07-06;bajo a segunda ;4;GD;75;34.1;40;Approach;0;1;0;0;0;0;0;0;0;0
+M40;15;2021-07-06;miro a la izquierda ;4;LV-FREE;41;27.37;40;Approach;0;0;0;1;0;0;0;0;0;0
+M40;15;2021-07-06;intermitente a la izquierda ;4;LB-ON;14;21.62;40;Approach;0;0;0;1;0;0;0;0;0;0
+M40;15;2021-07-06;freno ;4;B-ON;9;16.4;40;Approach;0;0;0;0;1;1;0;0;0;0
+M40;15;2021-07-06;bajo a primera ;4;GD;2;10.94;40;Approach;0;0;0;0;1;1;1;0;0;0
+M40;15;2021-07-06;vía libre;4;L-FREE;NaN;20.24;40;Approach;0;0;0;0;1;0;1;0;0;0
+M40;15;2021-07-06;acelero ;4;T-ON;NaN;22.02;40;Approach;0;0;0;0;1;0;0;1;0;0
+M40;15;2021-07-06;entro en la rotonda ;4;RND-IN;NaN;22.02;40;Inside;1;0;0;0;1;0;0;1;0;0
+M40;15;2021-07-06;giro a la izquierda en la rotonda ;4;TRN-L;NaN;23.99;40;Inside;1;0;0;0;0;0;0;0;0;1
+M40;15;2021-07-06;cambio de carril en la rotonda ;4;CHG-L;NaN;23.42;40;Inside;1;0;0;0;0;0;0;0;0;1
+M40;15;2021-07-06;subo a segunda ;4;GU;NaN;26.18;40;Inside;0;1;0;0;0;0;0;0;0;1
+M40;15;2021-07-06;giro a la izquierda en la rotonda ;4;TRN-L;NaN;24.77;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;15;2021-07-06;intermitente a la derecha ;4;RB-ON;NaN;24.74;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;15;2021-07-06;retrovisor central ;4;BK-FREE;NaN;27.67;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;15;2021-07-06;giro a la derecha en la rotonda para cambiar de carril ;4;CHG-R;NaN;28.59;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;15;2021-07-06;giro a la derecha para salir de la rotonda ;4;TRN-R;NaN;33.68;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;15;2021-07-06;salgo de la rotonda ;4;RND-OUT;NaN;42.04;40;Exit;0;1;0;0;0;0;0;0;0;0
+M40;15;2021-07-06;quito el intermitente ;4;RB-OFF;NaN;43.38;40;Exit;0;1;0;0;0;0;0;0;0;0
+M40;15;2021-07-06;enderezo ;4;STR;NaN;45.01;40;Exit;0;1;0;0;0;0;0;0;0;0
+M40;15;2021-07-06;subo a Tercera ;4;GU;NaN;48.1;40;Exit;1;0;0;0;0;0;0;0;0;0
+M40;15;2021-07-06;acelero;4;T-ON;NaN;49.6;40;Exit;1;0;0;0;0;0;0;0;0;0
+M40;16;2021-07-09;me preparo para rotonda ;4;RND-MD;230;67.87;70;Approach;1;0;0;0;0;0;0;0;0;0
+M40;16;2021-07-09;levanto el pie del acelerador ;4;T-OFF;220;67.41;70;Approach;1;0;0;0;0;0;0;0;0;0
+M40;16;2021-07-09;freno ;4;B-ON;180;64.85;70;Approach;1;0;0;0;0;0;0;0;0;0
+M40;16;2021-07-09;bajo a Tercera ;4;GD;130;57.16;60;Approach;1;0;0;0;0;0;0;0;0;0
+M40;16;2021-07-09;levanto el pie del acelerador ;4;T-OFF;85;51.64;40;Approach;1;0;1;0;0;0;0;0;0;0
+M40;16;2021-07-09;freno ;4;B-ON;71;50.61;40;Approach;1;0;1;0;0;0;0;0;0;0
+M40;16;2021-07-09;bajo a segunda ;4;GD;57;48.46;40;Approach;0;1;0;1;0;0;0;0;0;0
+M40;16;2021-07-09;miro a la izquierda ;4;LV-FREE;41;43.54;40;Approach;1;0;0;1;0;1;0;0;0;0
+M40;16;2021-07-09;viene un coche ;4;L-BUSY;22;36.17;40;Approach;0;0;0;1;0;1;1;0;0;0
+M40;16;2021-07-09;freno ;4;B-ON;22;36.17;40;Approach;0;0;0;1;0;1;1;0;0;0
+M40;16;2021-07-09;vía libre;4;L-FREE;13;29.39;40;Approach;0;0;0;0;1;0;1;0;0;0
+M40;16;2021-07-09;acelero ;4;T-ON;13;29.39;40;Approach;0;0;0;0;1;0;0;1;0;0
+M40;16;2021-07-09;entro en la rotonda ;4;RND-IN;NaN;16.28;40;Inside;0;1;0;0;0;0;0;1;0;0
+M40;16;2021-07-09;intermitente a la izquierda ;4;LB-ON;NaN;16.34;40;Inside;0;1;0;0;0;0;0;1;0;0
+M40;16;2021-07-09;giro a la izquierda ;4;CHG-L;NaN;20.68;40;Inside;0;1;0;0;0;0;0;0;0;1
+M40;16;2021-07-09;giro a la izquierda en la rotonda ;4;TRN-L;NaN;26.87;40;Inside;0;0;0;0;0;0;0;0;0;1
+M40;16;2021-07-09;miro a la derecha ;4;RV-FREE;NaN;26.61;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;16;2021-07-09;vía libre ;4;RV-FREE;NaN;25.85;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;16;2021-07-09;intermitente a la derecha ;4;RB-ON;NaN;23.39;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;16;2021-07-09;giro a la derecha para cambiar de carril en la rotonda ;4;CHG-R;NaN;23.39;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;16;2021-07-09;giro a la derecha para salir de la rotonda ;4;TRN-R;NaN;30.81;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;16;2021-07-09;salgo de la rotonda ;4;RND-OUT;NaN;38.71;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;16;2021-07-09;acelero ;4;T-ON;NaN;41.36;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;16;2021-07-09;subo tercera ;4;GU;NaN;46.35;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;16;2021-07-09;quito intermitente ;4;RB-OFF;NaN;46.79;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;17;2021-07-14;me preparo para rotonda ;4;RND-MD;230;70.43;70;Approach;0;0;0;0;0;0;0;0;0;0
+M40;17;2021-07-14;levanto el pie del acelerador ;4;T-OFF;220;69.73;70;Approach;0;0;0;0;0;0;0;0;0;0
+M40;17;2021-07-14;bajo a Tercera ;4;GD;160;63.2;70;Approach;0;0;0;0;0;0;0;0;0;0
+M40;17;2021-07-14;levanto el pie del acelerador ;4;T-OFF;110;55.86;60;Approach;0;0;0;0;0;0;0;0;0;0
+M40;17;2021-07-14;freno ;4;B-ON;78;52.88;40;Approach;1;0;1;0;0;0;0;0;0;0
+M40;17;2021-07-14;bajo a segunda ;4;GD;36;44.54;40;Approach;1;0;0;1;0;0;0;0;0;0
+M40;17;2021-07-14;freno ;4;B-ON;25;40.22;40;Approach;0;0;0;1;0;0;0;0;0;0
+M40;17;2021-07-14;miro la izquierda ;4;LV-FREE;6;30.29;40;Approach;0;0;0;1;0;0;0;0;0;0
+M40;17;2021-07-14;vía libre ;4;L-FREE;NaN;26.86;40;Approach;0;0;0;1;0;0;0;0;0;0
+M40;17;2021-07-14;acelero ;4;T-ON;NaN;26.86;40;Approach;0;0;0;0;1;0;0;0;0;0
+M40;17;2021-07-14;entro en la rotonda ;4;RND-ON;NaN;29.31;40;Inside;0;0;0;0;1;0;0;0;0;0
+M40;17;2021-07-14;intermitente a la izquierda ;4;LB-ON;NaN;29.31;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;17;2021-07-14;giro a la izquierda para cambiar de carril en la rotonda ;4;CHG-L;NaN;29.63;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;17;2021-07-14;giro a la izquierda dentro de la rotonda ;4;TRN-L;NaN;27.38;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;17;2021-07-14;miro a la derecha ;4;RV-FREE;NaN;23.11;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;17;2021-07-14;vía libre;4;RV-FREE;NaN;18.81;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;17;2021-07-14;intermitente a la derecha ;4;RB-ON;NaN;16.89;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;17;2021-07-14;giro a la derecha para cambiar de carril en la rotonda ;4;CHG-R;NaN;16.89;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;17;2021-07-14;giro a la derecha para salir de la rotonda ;4;TRN-R;NaN;25.72;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;17;2021-07-14;SALGO DE LA ROTONDA;4;RND-OUT;NaN;37.43;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;17;2021-07-14;enderezo;4;STR;NaN;37.43;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;17;2021-07-14;acelero ;4;T-ON;NaN;42.97;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;17;2021-07-14;suba tercera ;4;GU;NaN;46;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;17;2021-07-14;quito el intermitente ;4;RB-OFF;NaN;49;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;17;2021-07-14;acelero;4;T-ON;NaN;50.21;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;18;2021-07-22;me preparo para rotonda ;4;RND-MD;240;53.29;70;Approach;1;0;0;0;0;0;0;0;0;0
+M40;18;2021-07-22;levanto el pie del acelerador ;4;T-OFF;190;47.46;70;Approach;1;0;0;0;0;0;0;0;0;0
+M40;18;2021-07-22;bajo a segunda ;4;GD;140;48.34;60;Approach;1;0;0;0;0;0;0;0;0;0
+M40;18;2021-07-22;levanto el pie del acelerador ;4;T-OFF;94;43.66;60;Approach;1;0;1;0;0;0;0;0;0;0
+M40;18;2021-07-22;freno ;4;B-ON;84;40.96;40;Approach;0;1;0;1;0;0;0;0;0;0
+M40;18;2021-07-22;freno ;4;B-ON;54;34.27;40;Approach;0;1;0;1;0;0;0;0;0;0
+M40;18;2021-07-22;bajo a Primera ;4;GD;22;13.9;40;Approach;0;1;0;1;0;0;0;0;0;0
+M40;18;2021-07-22;acelero ;4;T-ON;18;11.52;40;Approach;0;1;0;1;0;0;0;0;0;0
+M40;18;2021-07-22;miro a la izquierda ;4;LV-FREE;13;11.65;40;Approach;0;1;0;1;0;0;0;0;0;0
+M40;18;2021-07-22;vía libre ;4;L-FREE;10;12.79;40;Approach;0;1;0;0;1;0;0;0;0;0
+M40;18;2021-07-22;intermitente a la izquierda ;4;LB-ON;6;15.07;40;Approach;0;1;0;0;1;0;0;0;0;0
+M40;18;2021-07-22;acelero ;4;T-ON;2;17.69;40;Approach;0;1;0;0;0;0;0;0;0;0
+M40;18;2021-07-22;entro en la rotonda ;4;RND-IN;NaN;20.6;40;Inside;0;1;0;0;0;0;0;1;0;0
+M40;18;2021-07-22;subo a segunda ;4;GU;NaN;22.72;40;Inside;0;1;0;0;0;0;0;1;0;1
+M40;18;2021-07-22;giro a la izquierda en la rotonda para cambiar de carril ;4;CHG-L;NaN;25.41;40;Inside;0;1;0;0;0;0;0;0;0;1
+M40;18;2021-07-22;giro a la izquierda en la rotonda ;4;TRN-L;NaN;25.02;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;18;2021-07-22;intermitente a la derecha ;4;RB-ON;NaN;24.11;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;18;2021-07-22;retrovisor derecho ;4;RV-FREE;NaN;22.87;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;18;2021-07-22;mira la derecha ;4;RV-FREE;NaN;21.14;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;18;2021-07-22;vía libre;4;RV-FREE;NaN;22.2;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;18;2021-07-22;giro a la derecha para cambiar de carril en la rotonda ;4;CHG-R;NaN;23.38;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;18;2021-07-22;giro a la derecha para salir de la rotonda ;4;TRN-R;NaN;26.44;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;18;2021-07-22;salgo de la rotonda ;4;RND-OUT;NaN;35.46;40;Salida;0;0;0;0;0;0;0;0;0;0
+M40;18;2021-07-22;acelero ;4;T-ON;NaN;40.96;40;Salida;0;0;0;0;0;0;0;0;0;0
+M40;18;2021-07-22;quito el intermitente ;4;RB-OFF;NaN;46.03;40;Salida;0;0;0;0;0;0;0;0;0;0
+M40;18;2021-07-22;subo a Tercera ;4;GU;NaN;49.9;40;Salida;0;0;0;0;0;0;0;0;0;0
+M40;18;2021-07-22;acelero;4;T-ON;NaN;51.86;40;Salida;0;0;0;0;0;0;0;0;0;0
+M40;19;2021-07-23;me preparo para rotonda ;4;RND-MD;230;63.73;70;Approach;0;0;0;0;0;0;0;0;0;0
+M40;19;2021-07-23;levanto el pie del acelerador ;4;T-OFF;170;63.2;70;Approach;0;0;0;0;0;0;0;0;0;0
+M40;19;2021-07-23;bajo a Tercera ;4;GD;120;58.15;60;Approach;1;0;0;0;0;0;0;0;0;0
+M40;19;2021-07-23;levanto el pie del acelerador ;4;T-OFF;110;58.11;60;Approach;0;0;1;0;0;0;0;0;0;0
+M40;19;2021-07-23;freno ;4;B-ON;30;49.72;40;Approach;0;0;1;0;0;0;0;0;0;0
+M40;19;2021-07-23;cambio segunda ;4;GD;18;41.43;40;Approach;0;0;0;1;0;0;0;0;0;0
+M40;19;2021-07-23;miro a la izquierda ;4;LV-FREE;8;33.94;40;Approach;0;0;0;1;0;0;0;0;0;0
+M40;19;2021-07-23;vía libre;4;L-FREE;8;33.94;40;Approach;0;0;0;0;1;0;0;0;0;0
+M40;19;2021-07-23;intermitente a la izquierda ;4;LB-ON;NaN;31.11;40;Approach;0;0;0;0;1;0;0;0;0;0
+M40;19;2021-07-23;entro en la rotonda ;4;RND-IN;NaN;30.41;40;Inside;0;0;0;0;1;0;0;0;0;0
+M40;19;2021-07-23;gira a la izquierda en la rotonda para cambiar de carril ;4;CHG-L;NaN;28.89;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;19;2021-07-23;giro a la izquierda en la rotonda ;4;TRN-L;NaN;28.28;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;19;2021-07-23;miro a la derecha ;4;RV-FREE;NaN;25.78;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;19;2021-07-23;vía libre ;4;RE-FREE;NaN;26.43;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;19;2021-07-23;intermitente a la derecha ;4;RB-ON;NaN;26.72;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;19;2021-07-23;giro a la derecha para cambiar de carril en la rotonda ;4;CHG-R;NaN;28.22;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;19;2021-07-23;giro a la derecha para salir de la rotonda ;4;TRN-R;NaN;31.95;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;19;2021-07-23;salgo de la rotonda ;4;RND-OUT;NaN;43.5;40;Salida;1;0;0;0;0;0;0;0;0;0
+M40;19;2021-07-23;acelero ;4;T-ON;NaN;45.51;40;Salida;1;0;0;0;0;0;0;0;0;0
+M40;19;2021-07-23;quito el intermitente ;4;RB-OFF;NaN;45.94;40;Salida;1;0;0;0;0;0;0;0;0;0
+M40;19;2021-07-23;subo a Tercera ;4;GU;NaN;47.31;40;Salida;1;0;0;0;0;0;0;0;0;0
+M40;19;2021-07-23;acelero;4;T-ON;NaN;48.74;40;Salida;1;0;0;0;0;0;0;0;0;0
+M40;20;2021-07-26;me preparo para rotonda ;4;RND-MD;230;67.12;70;Approach;0;0;0;0;0;0;0;0;0;0
+M40;20;2021-07-26;levanto el pie del acelerador ;4;T-OFF;180;64.25;70;Approach;1;0;0;0;0;0;0;0;0;0
+M40;20;2021-07-26;bajo a segunda ;4;GD;130;56.29;60;Approach;1;0;0;0;0;0;0;0;0;0
+M40;20;2021-07-26;levanto el pie del acelerador ;4;T-OFF;81;51.87;40;Approach;1;0;0;1;0;0;0;0;0;0
+M40;20;2021-07-26;freno ;4;B-ON;20;34.81;40;Approach;1;0;0;1;0;0;0;0;0;0
+M40;20;2021-07-26;miro a la izquierda ;4;LV-FREE;20;34.81;40;Approach;1;0;0;1;0;0;0;0;0;0
+M40;20;2021-07-26;vía libre ;4;L-FREE;12;30.68;40;Approach;0;0;0;0;1;0;0;0;0;0
+M40;20;2021-07-26;intermitente a la izquierda ;4;LB-ON;5;28.35;40;Approach;0;0;0;0;1;0;0;0;0;0
+M40;20;2021-07-26;entro en la rotonda ;4;RND-IN;5;28.35;40;Inside;0;0;0;0;1;0;0;0;0;0
+M40;20;2021-07-26;giro izquierda para cambiar de carril en la rotonda ;4;CHG-L;NaN;29.64;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;20;2021-07-26;gire a la izquierda en la rotonda ;4;TRN-L;NaN;25.95;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;20;2021-07-26;mira la derecha ;4;RV-FREE;NaN;25.41;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;20;2021-07-26;vía libre ;4;RE-FREE;NaN;25.97;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;20;2021-07-26;intermitente la derecha ;4;RB-ON;NaN;25.97;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;20;2021-07-26;gira a la derecha para cambiar de carril en la rotonda ;4;CHG-R;NaN;27.9;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;20;2021-07-26;gira a la derecha para salir de la rotonda ;4;TRN-G;NaN;33.34;40;Inside;1;0;0;0;0;0;0;0;0;0
+M40;20;2021-07-26;SALGO DE LA ROTONDA;4;RND-OUT;NaN;33.34;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;20;2021-07-26;enderezo ;4;STR;NaN;39.77;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;20;2021-07-26;quito el intermitente ;4;RB-OFF;NaN;46.99;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;20;2021-07-26;acelero ;4;T-ON;NaN;46.99;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;20;2021-07-26;subo a Tercera ;4;GU;NaN;48.74;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;20;2021-07-26;acelero;4;T-ON;NaN;48.74;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;21;2021-07-27;me preparo para rotonda ;4;RND-MD;250;58.55;70;Approach;0;1;0;0;0;0;0;0;0;0
+M40;21;2021-07-27;levanto el pie del acelerador ;4;T-OFF;160;50.96;70;Approach;0;1;0;0;0;0;0;0;0;0
+M40;21;2021-07-27;bajo a segunda ;4;GD;100;49.26;60;Approach;0;1;1;0;0;0;0;0;0;0
+M40;21;2021-07-27;freno ;4;B-ON;77;48.92;40;Approach;0;1;0;1;0;0;0;0;0;0
+M40;21;2021-07-27;miro a la izquierda;4;LV-FREE;38;41.54;40;Approach;1;0;0;1;0;0;0;0;0;0
+M40;21;2021-07-27;freno ;4;B-ON;18;32.76;40;Approach;1;0;0;1;0;0;0;0;0;0
+M40;21;2021-07-27;vía libre ;4;L-FREE;10;28.41;40;Approach;1;0;0;0;1;0;0;0;0;0
+M40;21;2021-07-27;intermitente a la izquierda ;4;LB-ON;3;25.56;40;Approach;0;0;0;0;1;0;0;0;0;0
+M40;21;2021-07-27;entro en la rotonda ;4;RND-IN;NaN;25.46;40;Inside;0;0;0;0;1;0;0;1;0;1
+M40;21;2021-07-27;giro a la izquierda para cambiar de carril en la rotonda ;4;CHG-L;NaN;26.6;40;Inside;0;1;0;0;0;0;0;0;0;0
+M40;21;2021-07-27;giro a la izquierda en la rotonda ;4;TRN-L;NaN;26.59;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;21;2021-07-27;retrovisor central ;4;BK-FREE;NaN;23.29;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;21;2021-07-27;vía libre ;4;BK-FREE;NaN;22.37;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;21;2021-07-27;miro a la derecha ;4;RV-FREE;NaN;22.79;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;21;2021-07-27;vía libre ;4;RV-FREE;NaN;22.79;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;21;2021-07-27;intermitente derecho ;4;RB-ON;NaN;21.76;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;21;2021-07-27;giro a la derecha para cambiar de carril en la rotonda ;4;CHG-R;NaN;24.01;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;21;2021-07-27;giro a la derecha para salir en la rotonda ;4;TRN-R;NaN;27.33;40;Inside;0;0;0;0;0;0;0;0;0;0
+M40;21;2021-07-27;salgo de la rotonda ;4;RND-OUT;NaN;36.54;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;21;2021-07-27;acelero ;4;T-ON;NaN;40.9;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;21;2021-07-27;quito el intermitente ;4;RB-OFF;NaN;43.35;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;21;2021-07-27;subo a Tercera ;4;GU;NaN;43.35;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;21;2021-07-27;acelero;4;T-ON;NaN;48.49;40;Exit;0;0;0;0;0;0;0;0;0;0
+M40;21;2021-07-27;Aproximación;2;APROX;NaN;NaN;40;Approach;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 1;22;2022-05-30;acelero ;2;T-ON;110;8;30;Approach;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 1;22;2022-05-30;rotonda media ;2;RND-MD;70;14.02;20;Approach;0;0;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 1;22;2022-05-30;levanto el pie del acelerador ;2;T-OFF;58;16.75;20;Approach;0;0;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 1;22;2022-05-30;zona izquierda libre ;2;L-FREE;45;19.19;20;Approach;0;0;0;1;0;0;0;0;0;0
+30/5/2022 - 16:15 - 1;22;2022-05-30;miro la izquierda ;2;LV-FREE;24;21.24;20;Approach;0;0;0;1;0;0;0;0;0;0
+30/5/2022 - 16:15 - 1;22;2022-05-30;todo el libre ;2;L-FREE;16;21.24;20;Approach;0;0;0;1;0;0;0;0;0;0
+30/5/2022 - 16:15 - 1;22;2022-05-30;en el ceda ;2;RND-IN;7;22.38;20;Approach;0;0;0;0;1;0;0;0;0;0
+30/5/2022 - 16:15 - 1;22;2022-05-30;entro en la rotonda ;2;RND-IN;NaN;22.77;20;Inside;0;0;0;0;1;0;0;0;0;0
+30/5/2022 - 16:15 - 1;22;2022-05-30;acelero ;2;T-ON;NaN;22.77;20;Inside;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 1;22;2022-05-30;continúo recto ;2;STR;NaN;23.11;20;Inside;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 1;22;2022-05-30;salgo de la rotonda ;2;RND-EXIT;NaN;23.12;20;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 1;22;2022-05-30;acelero ;2;T-ON;NaN;24.16;20;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 1;22;2022-05-30;levanto el pie del acelerador;2;T-OFF;NaN;24.16;20;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 2;23;2022-05-30;Aproximo rotonda ;1;APROX;160;24.5;30;Approach;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 2;23;2022-05-30;coche cerca ;1;CAR-NR;120;36.37;30;Approach;0;1; ;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 2;23;2022-05-30;mantengo el acelerador ;1;T-HOLD;110;35.68;30;Approach;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 2;23;2022-05-30;Rotonda media ;1;RND-MD;80;34.75;30;Approach;0;0;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 2;23;2022-05-30;mantengo el acelerador ;1;T-HOLD;72;33.02;30;Approach;0;0;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 2;23;2022-05-30;levanto el pie del acelerador ;1;T-OFF;54;30.97;30;Approach;0;0;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 2;23;2022-05-30;acelero ;1;T-ON;44;30.97;30;Approach;0;0;0;1;0;0;0;0;0;0
+30/5/2022 - 16:15 - 2;23;2022-05-30;coche cerca ;1;CAR-NR;31;25.15;30;Approach;0;0;0;1;0;0;0;0;0;0
+30/5/2022 - 16:15 - 2;23;2022-05-30;miro izquierda ;1;LV-FREE;24;26.69;30;Approach;0;0;0;1;0;0;0;0;0;0
+30/5/2022 - 16:15 - 2;23;2022-05-30;zona izquierda libre ;1;L-FREE;17;23.63;30;Approach;0;0;0;1;0;0;0;0;0;0
+30/5/2022 - 16:15 - 2;23;2022-05-30;en el ceda ;1;RND-IN;11;23.31;30;Approach;0;0;0;0;1;0;0;0;0;0
+30/5/2022 - 16:15 - 2;23;2022-05-30;giro derecha ;1;TURN-R;4;19.87;30;Approach;0;0;0;0;1;0;0;0;0;0
+30/5/2022 - 16:15 - 2;23;2022-05-30;entro en la rotonda ;1;RND-IN;NaN;20.63;30;Inside;0;0;0;0;1;0;0;0;0;0
+30/5/2022 - 16:15 - 2;23;2022-05-30;giro la derecha ;1;TURN-R;NaN;21.61;30;Inside;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 2;23;2022-05-30;intermitente la derecha ;1;RB-ON;NaN;22.41;30;Inside;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 2;23;2022-05-30;salgo de la rotonda ;1;RND-EXIT;NaN;25.84;30;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 2;23;2022-05-30;intermitente derecha off ;1;RB-OFF;NaN;29.82;30;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 2;23;2022-05-30;acelero ;1;T-ON;NaN;38.76;50;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 2;23;2022-05-30;mantengo acelerador ;1;T-HOLD;NaN;41.81;50;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 2;23;2022-05-30;acelero;1;T-ON;NaN;42.95;50;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 3;24;2022-05-30;mantengo acelerador ;2;T-HOLD;130;47.8;50;Approach;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 3;24;2022-05-30;aproximo rotonda ;2;APROX;120;47.73;50;Approach;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 3;24;2022-05-30;coche cerca ;2;CAR-NR;100;46.96;50;Approach;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 3;24;2022-05-30;freno ;2;B-ON;96;45.89;50;Approach;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 3;24;2022-05-30;rotonda media ;2;RND-MD;83;47.61;50;Approach;0;1;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 3;24;2022-05-30;freno ;2;B-ON;73;44.31;50;Approach;0;1;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 3;24;2022-05-30;levanto el pie del acelerador ;2;T-OFF;51;34.65;20;Approach;0;1;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 3;24;2022-05-30;mira la izquierda ;2;LV-BUSY;32;31.26;20;Approach;0;1;0;1;0;1;0;0;0;0
+30/5/2022 - 16:15 - 3;24;2022-05-30;zona izquierda ocupada ;2;L-BUSY;25;25.34;20;Approach;0;1;0;1;0;1;0;0;0;0
+30/5/2022 - 16:15 - 3;24;2022-05-30;freno ;2;B-ON;18;24.12;20;Approach;0;0;0;0;1;1;1;0;0;0
+30/5/2022 - 16:15 - 3;24;2022-05-30;paro ;2;STOP;12;17.36;20;Approach;0;0;0;0;1;1;1;0;0;0
+30/5/2022 - 16:15 - 3;24;2022-05-30;en el ceda ;2;RND-IN;8;9.07;20;Approach;0;0;0;0;1;1;1;1;0;0
+30/5/2022 - 16:15 - 3;24;2022-05-30;zona izquierda libre ;2;L-FREE;8;9.07;20;Approach;0;0;0;0;1;0;0;1;0;0
+30/5/2022 - 16:15 - 3;24;2022-05-30;acelero ;2;T-ON;NaN;8.72;20;Inside;0;0;0;0;0;0;0;1;0;0
+30/5/2022 - 16:15 - 3;24;2022-05-30;giro derecha ;2;TURN-R;NaN;872;20;Inside;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 3;24;2022-05-30;giro izquierda en la rotonda ;2;TURN-L;NaN;13.49;20;Inside;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 3;24;2022-05-30;giro a la derecha en la rotonda;2;TURN-R;NaN;29.95;20;Inside;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 3;24;2022-05-30;salgo de la rotonda ;2;RND-EXIT;NaN;31.13;20;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 3;24;2022-05-30;acelero ;2;T-ON;NaN;32.44;50;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 3;24;2022-05-30;acelero ;2;T-ON;NaN;32.44;50;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 3;24;2022-05-30;acelero ;2;T-ON;NaN;46.04;50;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 3;24;2022-05-30;mantengo el acelerador;2;T-HOLD;NaN;49.05;50;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;aproximo rotonda ;3;APROX;130;51.7;50;Approach;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;coche media ;3;CAR-MD;110;53.21;50;Approach;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;freno ;3;B-ON;76;49.83;50;Approach;1;0;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;freno ;3;B-ON;65;45.66;50;Approach;0;1;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;coche cerca ;3;CAR-NR;38;29.51;50;Approach;0;1;0;1;0;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;freno ;3;B-ON;34;20.75;50;Approach;0;1;0;1;0;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;paro ;3;STOP;31;13.23;50;Approach;0;1;0;1;0;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;acelero ;3;T-ON;27;10.65;50;Approach;0;1;0;0;1;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;mira la izquierda ;3;LV-FREE;24;4;50;Approach;1;0;0;0;1;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;zona izquierda libre ;3;L-FREE;22;5.65;50;Approach;1;0;0;0;1;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;zona central libre ;3;F-FREE;19;10.66;50;Approach;1;0;0;0;1;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;acelero ;3;T-ON;11;18.44;50;Approach;1;0;0;0;1;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;entro en la rotonda ;3;RND-IN;NaN;23.85;40;Inside;1;0;0;0;1;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;giro a la izquierda ;3;TURN-L;NaN;23.85;40;Inside;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;intermitente izquierda ;3;LB-ON;NaN;26.03;40;Inside;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;giro a la izquierda en la rotonda ;3;TURN-L;NaN;28.78;40;Inside;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;intermitente derecha ;3;RB-ON;NaN;30.38;40;Inside;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;giro a la derecha en la rotonda ;3;TURN-R;NaN;30.38;40;Inside;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;salgo de la rotonda ;3;RND-EXIT;NaN;31.69;40;Exit;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;acelero ;3;T-ON;NaN;38.66;90;Exit;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;coche media ;3;CAR-MD;NaN;45.85;90;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;recto ;3;STR;NaN;53.37;90;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;acelero;3;T-ON;NaN;56.61;90;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 4;25;2022-05-30;mantengo acelerador;3;T-HOLD;NaN;60.66;90;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 5;26;2022-05-30;Me aproximo a rotonda;2;ARPOX;300;75.79;90;Approach;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 5;26;2022-05-30;coche cerca;2;CAR-NR;180;69.58;90;Approach;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 5;26;2022-05-30;levanto el pie del acelerador ;2;T-OFF;140;65.96;70;Approach;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 5;26;2022-05-30;freno ;2;B-ON;130;62.26;70;Approach;0;1;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 5;26;2022-05-30;rotonda media ;2;RND-MD;130;62.26;70;Approach;0;1;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 5;26;2022-05-30;freno ;2;B-ON;82;50.39;70;Approach;0;1;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 5;26;2022-05-30;rotonda cerca ;2;RND-NR;37;36.86;40;Approach;0;1;0;1;0;0;0;0;1;0
+30/5/2022 - 16:15 - 5;26;2022-05-30;coche cerca ;2;CAR-NR;37;36.86;40;Approach;0;1;0;1;0;0;0;0;1;0
+30/5/2022 - 16:15 - 5;26;2022-05-30;miro izquierda ;2;LV-FREE;27;34.33;40;Approach;0;1;0;1;0;0;0;0;0;0
+30/5/2022 - 16:15 - 5;26;2022-05-30;zona izquierda libre ;2;L-FREE;19;30.59;40;Approach;0;1;0;1;0;0;0;0;0;0
+30/5/2022 - 16:15 - 5;26;2022-05-30;acelero ;2;T-ON;11;29.72;40;Approach;0;1;0;0;1;0;0;0;0;0
+30/5/2022 - 16:15 - 5;26;2022-05-30;en el ceda ;2;RND-IN;3;29.81;40;Approach;0;1;0;0;1;0;0;0;0;0
+30/5/2022 - 16:15 - 5;26;2022-05-30;entro en la rotonda ;2;RND-IN;NaN;28.75;40;Inside;0;1;0;0;1;0;0;0;0;0
+30/5/2022 - 16:15 - 5;26;2022-05-30;giro derecha ;2;TURN-R;NaN;29.53;40;Inside;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 5;26;2022-05-30;giro izquierda en la rotonda ;2;TURN-L;NaN;33.46;40;Inside;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 5;26;2022-05-30;giro derecha en la rotonda ;2;TURN-R;NaN;33.46;40;Inside;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 5;26;2022-05-30;salgo de la rotonda ;2;RND-EXIT;NaN;42.96;40;Exit;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 5;26;2022-05-30;acelero ;2;T-ON;NaN;48.19;90;Exit;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 5;26;2022-05-30;recto ;2;STR;NaN;48.19;90;Exit;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 5;26;2022-05-30;acelero ;2;T-ON;NaN;53.44;90;Exit;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 5;26;2022-05-30;coche a media ;2;CAR-MD;NaN;57.16;90;Exit;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 5;26;2022-05-30;acelero;2;T-ON;NaN;62.14;90;Exit;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;Me aproximo a rotonda ;1;APROX;300;71.48;90;Approach;0;0;0;0;0;0;0;0;1;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;coche cerca ;1;CAR-NR;280;71.96;90;Approach;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;coche cerca ;1;CAR-NR;240;69.3;90;Approach;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;levanto acelerador;1;T-OFF;200;72.39;70;Approach;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;freno ;1;B-ON;180;72.39;70;Approach;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;freno ;1;B-ON;180;70.54;70;Approach;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;levanto acelerador ;1;T-OFF;140;62.73;70;Approach;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;freno ;1;B-ON;130;60.08;70;Approach;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;rotonda media ;1;RND-MD;110;58.06;70;Approach;0;1;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;coche cerca ;1;CAR-NR;110;58.06;70;Approach;0;1;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;freno ;1;B-ON;110;53.58;40;Approach;0;1;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;freno ;1;B-ON;52;47.36;40;Approach;0;1;0;1;0;0;0;0;0;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;miro izquierda ;1;LV-BUSY;18;32.8;40;Approach;0;1;0;1;0;1;0;0;1;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;zona izquierda ocupada ;1;L-BUSY;18;25.86;40;Approach;0;1;0;1;0;1;0;0;1;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;coche cerca ;1;CAR-NR;6;16.54;40;Approach;0;1;0;1;0;0;1;0;1;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;acelero ;1;T-ON;2;13.65;40;Approach;0;1;0;1;0;1;1;0;1;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;en el ceda ;1;RND-IN;NaN;11.16;40;Approach;0;1;0;0;1;1;0;0;1;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;zona izquierda ocupada ;1;L-BUSY;NaN;9.92;40;Approach;0;1;0;0;1;1;0;0;1;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;zona izquierda libre ;1;L-FREE;NaN;9.975;40;Approach;1;0;0;0;1;0;0;0;1;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;acelero ;1;T-ON;NaN;10.03;40;Approach;0;0;0;0;1;0;0;0;1;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;entro en la rotonda ;1;RND-IN;NaN;10.03;40;Inside;0;0;0;0;1;0;0;0;1;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;giro derecha ;1;TURN-R;NaN;17.7;40;Inside;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;intermitente derecho ;1;RB-ON;NaN;25.7;40;Inside;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;salgo de la rotonda ;1;RND-EXIT;NaN;25.7;40;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;intermitente derecho off ;1;RB-OFF;NaN;31.39;120;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;recto ;1;STR;NaN;37.7;120;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;acelero ;1;T-ON;NaN;44.83;120;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 6;27;2022-05-30;acelero;1;T-ON;NaN;55.1;120;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;me aproximo a rotonda ;3;APROX;150;82.4;70;Approach;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;freno ;3;B-ON;140;82.4;40;Approach;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;rotonda media;3;RND-MD;120;76.49;40;Approach;0;0;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;freno ;3;B-ON;73;57.82;40;Approach;0;0;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;carril derecho libre ;3;RV-FREE;73;57.82;40;Approach;0;0;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;freno ;3;B-ON;47;49.01;40;Approach;0;0;0;1;0;0;0;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;miro a la izquierda ;3;LV-BUSY;20;31.36;40;Approach;0;0;0;1;0;1;0;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;zona izquierda ocupada ;3;L-BUSY;12;15.46;40;Approach;0;0;0;1;0;1;0;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;freno ;3;B-ON;10;4.96;40;Approach;0;0;0;0;1;1;0;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;paro en el ceda ;3;STOP;8;0;40;Approach;0;0;0;0;1;1;0;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;zona izquierda libre ;3;L-FREE;8;0;40;Approach;0;0;0;0;1;1;0;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;acelero ;3;T-ON;5;11.29;40;Approach;0;0;0;0;1;0;1;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;entro en la rotonda ;3;RND-IN;NaN;15.81;40;Inside;0;0;0;0;1;0;0;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;intermitente a la izquierda ;3;LB-ON;NaN;23.57;40;Inside;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;cambio de carril izquierdo ;3;CHG-L;NaN;29.31;40;Inside;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;giro a la izquierda en la rotonda ;3;TURN-L;NaN;31.66;40;Inside;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;intermitente derecho ;3;RB-ON;NaN;28.56;40;Inside;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;vista atrás libre ;3;BK-FREE;NaN;38.35;40;Inside;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;miro a la derecha libre ;3;RV-FREE;NaN;37.68;40;Inside;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;giro a la derecha;3;TURN-R;NaN;41.8;40;Inside;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;cambio carril derecho ;3;CHG-R;NaN;41.8;40;Inside;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;salgo de la rotonda ;3;RND-EXIT;NaN;45.41;50;Exit;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 7;28;2022-05-30;intermitente derecho off;3;LB-OFF;NaN;47.05;50;Exit;0;0;0;0;0;0;0;0;0;1
+30/5/2022 - 16:15 - 7;28;2022-05-30;acelero;3;T-ON;NaN;48.77;50;Exit;0;0;0;0;0;0;0;0;0;1
+30/5/2022 - 16:15 - 8;29;2022-05-30;Levanto el pie del acelerador;3;T-OFF;NaN;NaN;NaN;Approach;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 8;29;2022-05-30;freno ;3;B-ON;NaN;NaN;NaN;Approach;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 8;29;2022-05-30;me aproximo a rotonda;3;APROX;35;25.19;50;Approach;1;0;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 8;29;2022-05-30;rotonda media ;3;RND-MD;29;22.44;50;Approach;1;0;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 8;29;2022-05-30;coche cerca ;3;CAR-NR;22;20.32;50;Approach;0;1;0;1;0;0;0;0;0;0
+30/5/2022 - 16:15 - 8;29;2022-05-30;mira la izquierda ;3;LV-BUSY;11;19.39;50;Approach;0;1;0;1;0;1;0;0;0;0
+30/5/2022 - 16:15 - 8;29;2022-05-30;zona izquierda ocupada ;3;L-BUSY;5;15.63;50;Approach;0;0;0;0;1;1;0;0;0;0
+30/5/2022 - 16:15 - 8;29;2022-05-30;freno ;3;B-ON;1;11.37;50;Approach;0;0;0;0;1;1;0;0;0;0
+30/5/2022 - 16:15 - 8;29;2022-05-30;paro en el ceda;3;STOP;NaN;6.22;50;Approach;0;0;0;0;1;1;0;0;0;0
+30/5/2022 - 16:15 - 8;29;2022-05-30;zona izquierda libre ;3;L-FREE;NaN;6.66;50;Approach;0;0;0;0;1;0;1;0;0;0
+30/5/2022 - 16:15 - 8;29;2022-05-30;acelero ;3;T-ON;NaN;25.49;20;Approach;0;0;0;0;1;0;0;1;0;0
+30/5/2022 - 16:15 - 8;29;2022-05-30;entro en la rotonda ;3;RND-IN;NaN;25.49;20;Inside;0;0;0;0;1;0;0;0;0;0
+30/5/2022 - 16:15 - 8;29;2022-05-30;intermitente izquierda ;3;LB-ON;NaN;26.66;20;Inside;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 8;29;2022-05-30;cambio de carril izquierda ;3;CHG-L;NaN;27.48;20;Inside;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 8;29;2022-05-30;giro a la izquierda en la rotonda ;3;TURN-L;NaN;30.8;20;Inside;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 8;29;2022-05-30;carril derecho ocupado ;3;LV-BUSY;NaN;29.94;20;Inside;0;0;0;0;0;0;0;0;0;1
+30/5/2022 - 16:15 - 8;29;2022-05-30;giro a la izquierda en la rotonda ;3;TURN-L;NaN;21.87;20;Inside;0;0;0;0;0;0;0;0;0;1
+30/5/2022 - 16:15 - 8;29;2022-05-30;intermitente derecho ;3;RB-ON;NaN;27.75;20;Inside;0;0;0;0;0;0;0;0;0;1
+30/5/2022 - 16:15 - 8;29;2022-05-30;vista atrás ocupado;3;BK-BUSY;NaN;27.85;20;Inside;0;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 8;29;2022-05-30;giro a la derecha ;3;TURN-R;NaN;33.12;20;Inside;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 8;29;2022-05-30;cambio de carril en la rotonda ;3;CHG-R;NaN;38.94;20;Inside;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 8;29;2022-05-30;salgo de la rotonda ;3;RND-EXIT;NaN;38.24;20;Exit;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 8;29;2022-05-30;acelero ;3;T-ON;NaN;37.22;20;Exit;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 8;29;2022-05-30;recto;3;STR;NaN;37.22;20;Exit;1;0;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 9;30;2022-05-30;acelero ;2;T-ON;NaN;NaN;NaN;Approach;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 9;30;2022-05-30;coche cerca ;2;CAR-NR;NaN;NaN;NaN;Approach;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 9;30;2022-05-30;me aproximo a rotonda ;2;APROX;37;20.51;30;Approach;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 9;30;2022-05-30;rotonda media ;2;RND-MD;37;20.51;30;Approach;0;1;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 9;30;2022-05-30;acelero ;2;T-ON;17;27.38;30;Approach;0;1;1;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 9;30;2022-05-30;coche cerca ;2;CAR-NR;3;27.69;30;Approach;0;1;0;1;0;0;0;0;0;0
+30/5/2022 - 16:15 - 9;30;2022-05-30;zona izquierda libre ;2;L-FREE;NaN;27.85;30;Approach;0;1;0;1;0;0;0;0;0;0
+30/5/2022 - 16:15 - 9;30;2022-05-30;acelero ;2;T-ON;NaN;29.85;30;Approach;0;1;0;0;1;0;0;0;0;0
+30/5/2022 - 16:15 - 9;30;2022-05-30;en el ceda ;2;RND-IN;NaN;29.85;30;Approach;0;1;0;0;1;0;0;0;0;0
+30/5/2022 - 16:15 - 9;30;2022-05-30;entro en la rotonda ;2;RND-IN;NaN;31.18;20;Inside;0;1;0;0;1;0;0;0;0;0
+30/5/2022 - 16:15 - 9;30;2022-05-30;giro a la derecha en la rotonda ;2;TURN-R;NaN;31.18;20;Inside;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 9;30;2022-05-30;giro a la izquierda ;2;TURN-L;NaN;29.14;20;Inside;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 9;30;2022-05-30;intermitente a la derecha ;2;RB-ON;NaN;25.89;20;Inside;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 9;30;2022-05-30;giro a la derecha ;2;TURN-R;NaN;25.98;20;Inside;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 9;30;2022-05-30;salgo de la rotonda ;2;RND-EXIT;NaN;27.74;20;Exit;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 9;30;2022-05-30;coche cerca ;2;CAR-NR;NaN;28.84;20;Exit;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 9;30;2022-05-30;levanto el pie del acelerador ;2;T-OFF;NaN;24.77;20;Exit;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 9;30;2022-05-30;freno ;2;B-ON;NaN;20.64;20;Exit;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 9;30;2022-05-30;coche cerca ;2;CAR-NR;NaN;20.64;20;Exit;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 9;30;2022-05-30;intermitente derecha off;2;RB-OFF;NaN;21.4;20;Exit;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 9;30;2022-05-30;levanto el pie del acelerador ;2;T-OFF;NaN;21.64;20;Exit;0;1;0;0;0;0;0;0;0;0
+30/5/2022 - 16:15 - 9;30;2022-05-30;freno;2;B-ON;NaN;23.31;20;Exit;0;1;0;0;0;0;0;0;0;0
